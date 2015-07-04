@@ -1,0 +1,4 @@
+name = NYCC Module 
+description = Handle custom app needs
+package = NYCC
+core = 6.x
